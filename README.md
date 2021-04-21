@@ -30,7 +30,11 @@ Pada Project Tugas Praktikum, membuat subclass untuk menjalankan program dari cl
 
 <h2>Tugas Tambahan Produktif R1</h2>
 <img src = "https://user-images.githubusercontent.com/68726459/115496407-c1306a80-a293-11eb-9dfe-0cef285e93da.png">
-
+Pada program di atas, terdapat abstract class OperasiBilanganAbs, di mana Abstrak adalah class yang masih dalam bentuk 
+bayangan sebagai class induk yang menurunkan property yang ke class anaknya yaitu class OperasiPenjumlahan, class 
+OperasiPengurangan, class operasiPerkalian, dan class OperasiPembagian. Pada abstract class OperasiBilanganAbs
+terdapat banyak method astract. Pada class anaknya melakukan @Override Langkah ini bertujuan agar abstract class dan 
+method dapat diturunkan ke class anaknya. Serta method Setter Getter pada method set_A, set_B, set_C, get_A, get_B, dan get_C.
 
 <h1>Kesimpulan</h1>
 Polimorfisme terbagi menjadi dua suku kata yaitu, Poly yang berarti banyak dan Morfisme yang berarti bentuk. <br>
