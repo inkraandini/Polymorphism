@@ -20,7 +20,9 @@ Pada Project Latihan 3, program tersebut menggunakan polimorfisme dinamis, diman
 
 <h2>Latihan 4</h2>
 <img src = "https://user-images.githubusercontent.com/68726459/115496045-0f913980-a293-11eb-8d50-f94e6bfb25e6.png">
-Pada Project Latihan 4, terdapat class A yang menggunakan method setter getter yang diturunkan ke class B.
+Pada Project Latihan 4, Pada hasil run latihan 4 diatas, diperoleh warna dan hasil luas bangun rectangle dan triangle 
+yang telah ditetapkan dengan rumus rumus yang ada pada method getArea(). Setelah melakukan proses perhitungan, 
+sehingga muncul hasil Output seperti pada gambar diatas
 
 <h2>Tugas Praktikum</h2>
 <img src = "https://user-images.githubusercontent.com/68726459/115496221-68f96880-a293-11eb-9f47-2e1bf24b6671.png">
